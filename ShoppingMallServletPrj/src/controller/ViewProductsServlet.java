@@ -27,7 +27,10 @@ public class ViewProductsServlet extends HttpServlet {
 		out.println("<form action='' method='GET'>");
 		out.println("상품명: <input type='text' name='productname'><br>");
 		out.println("<input type='submit' value='Search'>");
-		out.println("<a href='index.html'> 뒤로가기</a>");
+		//out.println("<a href='index.html'> 뒤로가기</a>");
+		out.println("</form>");
+		out.println("<form action=\"index.html\" method=\"GET\">");
+		out.println("<button type=\"submit\">뒤로가기</button>");
 		out.println("</form>");
 
 		
