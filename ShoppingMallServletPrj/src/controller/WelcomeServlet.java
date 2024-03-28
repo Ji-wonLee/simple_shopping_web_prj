@@ -32,9 +32,17 @@ public class WelcomeServlet extends HttpServlet {
 			out.println("<html><head><title>Welcome</title></head><body>");
 			out.println("<h1>어서오세요, " + userInfo.getName() + "님" + "</h1>");
 			out.println("<p>로그인 성공.</p>");
-			out.println("<a href='logout'>Logout</a>"); // 로그아웃 기능
-
-			out.println("<a href='LoginNSearch'>상품 조회하기</a>");
+		
+			//out.println("<a href='logout'>Logout</a>"); // 로그아웃 기능
+			out.println("<form action=\"logout\" method=\"GET\">");
+			out.println("<button type=\"submit\">logout</button>");
+			out.println("</form>");
+			
+			out.println("<form action=\"LoginNSearch\" method=\"GET\">");
+			out.println("<button type=\"submit\">상품 조회하기</button>");
+			out.println("</form>");
+			
+//			out.println("<a href='LoginNSearch'>상품 조회하기</a>");
 			out.println("</body></html>");
 		}
 	}
