@@ -28,9 +28,13 @@ public class LoginServlet extends HttpServlet {
         out.println("ID: <input type='text' name='id'><br>");
         out.println("Password: <input type='password' name='password'><br>");
         out.println("<input type='submit' value='Login'>"); // 로그인 버튼
-        out.println("<a href='index.html'> 뒤로가기</a>");
-        
         out.println("</form>");
+       //out.println("<a href='index.html'> 뒤로가기</a>");
+      
+        out.println("<form action=\"index.html\" method=\"GET\">");
+		out.println("<button type=\"submit\">뒤로가기</button>");
+		out.println("</form>");
+        
         // 상품 조회 페이지로 이동
 //        out.println("<a href='ViewProductsServlet'>View Products Without Login</a>");
 //        out.println("</body></html>");
