@@ -20,6 +20,25 @@
 * 비로그인시 상품 조회 기능
   * 단, 원가로만 보임
  
+
+
+
   
- 
+ ## 실행 화면
+
+
+ ![Main_Page](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/1b177a92-a7da-44bf-a24d-d7f247ad401b)
+
+![Login_Page](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/becc635f-a503-424d-b69d-1f403652e660)
+
+![Welcome_Success_Login](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/1400c0e5-513e-42f5-8a55-e5714d20ed27)
+
+
+![Login_Search_Product](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/6ed52751-d35f-4d11-b609-ea7a92639c8d)
+
+![Login_Search_result](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/6e0ed5ef-1936-4156-8102-d844ad917453)
+
+![No_Login_Search_Product](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/6d68bdc6-a6c5-4b94-b12d-bc59abe1d5b2)
+
+![No_Login_Search_Product_Result](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/297eabc2-cb13-4f9c-b20e-924ec648f877)
    
