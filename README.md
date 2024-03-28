@@ -32,10 +32,14 @@
 
 
 
+
+
 * 로그인 페이지
 
   
 ![Login_Page](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/2b34c408-87f0-42ce-a7b6-77d6d6a592ac)
+
+
 
 
 
@@ -46,10 +50,14 @@
 
 
 
+
+
 * 로그인 성공 후 상품 조회
 
   
 ![Login_Search_Product](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/dae68725-337a-4f28-8eae-b40ffb3937c7)
+
+
 
 
 
@@ -60,10 +68,14 @@
 
 
 
+
+
 * 비회원 상품 조회
 
   
 ![No_Login_Search_Product](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/661d5e20-8caa-4e19-bd97-8aecf66f5225)
+
+
 
 
 
@@ -73,3 +85,7 @@
 ![No_Login_Search_Product_Result](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/a85ab5b6-fe80-4f0f-a287-d25d1e27ced3)
 
 
+
+## 후기
+
+* 디자인 구려
