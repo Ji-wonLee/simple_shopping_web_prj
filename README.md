@@ -28,7 +28,7 @@
 * 첫화면
 
   
-![Main_Page](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/0f2f736f-14b1-43b6-91e8-0325032ab74c)
+![Main_Page](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/027f6823-be7c-4fd9-b799-14599e7a1a59)
 
 
 
