@@ -42,6 +42,13 @@
 
 
 
+* 로그인 실패
+
+![Fail_Login](https://github.com/Ji-wonLee/simple_shopping_web_prj/assets/112998568/4dfa9d37-111f-4979-93c1-53dbc524cc8c)
+
+
+
+
 
 * 로그인 성공
 
