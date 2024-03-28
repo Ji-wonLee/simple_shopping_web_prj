@@ -32,8 +32,12 @@ public class LoginNSearchServlet extends HttpServlet {
         out.println("<form action='LoginNSearch' method='POST'>");
         out.println("상품명: <input type='text' name='productname'><br>");
         out.println("<input type='submit' value='Search'>");
-        out.println("<a href='logout'> Logout</a>");
         out.println("</form>");
+        //out.println("<a href='logout'> Logout</a>");
+        out.println("<form action=\"logout\" method=\"GET\">");
+		out.println("<button type=\"submit\">logout</button>");
+		out.println("</form>");
+        
         out.println("</body></html>");
     }
 
